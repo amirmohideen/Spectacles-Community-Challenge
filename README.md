@@ -8,6 +8,20 @@ A repository dedicated to tracking the winners and innovative projects from the 
 *Experiment with unfamiliar tools, features, and ideas to create fresh, engaging experiences that keep users coming back.*
 
 <details>
+<summary><b>### March 2026 Challenge #11</b></summary>
+
+| Rank | Description | Demo Video | Links |
+| :--- | :--- | :--- | :--- |
+| 🥇 1st | **ASYM**: A two-player asymmetric tower defense experience. <br> <details> <summary><i>Read More...</i></summary> ASYM is a two-player asymmetric tower defense experience built for Spectacles, where each player takes on a completely different role within the same game. One player defends a castle anchored in their physical environment, while the other attacks it in real time from a second pair of Spectacles or a mobile device. The result is a shared match played simultaneously from two distinct perspectives. </details> | <video src="" width="320" controls></video> | [Lens](https://blog.lenslist.co/2026/04/23/spectacles-community-challenge-11-winners-announcement/) |
+| 🥈 2nd | **Smash AR**: Mixed reality table tennis with evolving challenges and AI opponents. <br> <details> <summary><i>Read More...</i></summary> Smash AR features two ways to play: Classic Mode, where players race to 7 points against AI, and Challenge Mode, featuring five levels of shifting layouts, obstacles, and a boss fight. It requires players to adapt their physical strategy as the play area shrinks or moves. </details> | <video src="" width="320" controls></video> | [Lens](https://blog.lenslist.co/2026/04/23/spectacles-community-challenge-11-winners-announcement/) |
+| 🥉 3rd | **Big Marble**: Hand-tracked physics game using Supabase for level delivery. <br> <details> <summary><i>Read More...</i></summary> Big Marble uses pinch gestures to launch marbles across spatial boards. It features a custom lightweight physics system for smooth performance. Levels are delivered via Supabase, enabling new boards without updates, and powers a global leaderboard for score comparisons. </details> | <video src="" width="320" controls></video> | [Lens](https://blog.lenslist.co/2026/04/23/spectacles-community-challenge-11-winners-announcement/) |
+| 🎖️ 4th | **Agility Trainer**: Stamina and reaction-based training experience. <br> <details> <summary><i>Read More...</i></summary> Agility Trainer is designed to improve speed and dexterity through four interactive game modes. It features persistent scoring to track progress over time, combining cognitive reaction challenges with full-body engagement in AR. </details> | <video src="" width="320" controls></video> | [Lens](https://blog.lenslist.co/2026/04/23/spectacles-community-challenge-11-winners-announcement/) |
+| 🎖️ 5th | **Ready Player Cook**: Cooperative AR cooking chaos. <br> <details> <summary><i>Read More...</i></summary> A cooperative AR experience where players team up to grab ingredients with their hands and race against the clock to complete food orders. It showcases the potential for shared spatial experiences and natural hand-tracked interaction. </details> | <video src="" width="320" controls></video> | [Lens](https://blog.lenslist.co/2026/04/23/spectacles-community-challenge-11-winners-announcement/) |
+
+</details>
+
+
+<details>
 <summary><b>### December 2025 Challenge #8</b></summary>
 
 | Rank | Description | Demo Video | Links |
@@ -49,8 +63,24 @@ A repository dedicated to tracking the winners and innovative projects from the 
 
 ---
 
+
+
+
+
+
 ## 2. Lens Update Category
 *Revisit and enhance already published Lenses with substantial new features or refinements.*
+
+<details>
+<summary><b>### March 2026 Challenge #11</b></summary>
+
+| Rank | Description | Demo Video | Links |
+| :--- | :--- | :--- | :--- |
+| 🥇 1st | **Pac-Kitties**: Fitness/boxing update with Commerce Kit integration. <br> <details> <summary><i>Read More...</i></summary> This major update adds fitness-focused boxing movements to the arena. It integrates Commerce Kit for in-lens purchases and improves usability with repositioned UI for better comfort. A new tutorial was added along with "coming soon" placeholders for the shop. </details> | <video src="" width="320" controls></video> | [Lens](https://blog.lenslist.co/2026/04/23/spectacles-community-challenge-11-winners-announcement/) |
+| 🥈 2nd | **HandymanAI**: AR assistant updated with trade-specific modules and purchase flows. <br> <details> <summary><i>Read More...</i></summary> HandymanAI now includes a specialized training menu for electrical tasks. The update introduces a purchase flow for unlocking upcoming training modules via pinch interactions, alongside significant UI and styling improvements for better clarity during hands-on work. </details> | <video src="" width="320" controls></video> | [Lens](https://blog.lenslist.co/2026/04/23/spectacles-community-challenge-11-winners-announcement/) |
+
+</details>
+
 
 <details>
 <summary><b>### December 2025 Challenge #8</b></summary>
@@ -89,6 +119,18 @@ A repository dedicated to tracking the winners and innovative projects from the 
 
 ## 3. Open Source Category
 *Experimental projects hosted on GitHub pushing the limits of Spectacles hardware.*
+
+<details>
+<summary><b>### March 2026 Challenge #11</b></summary>
+
+| Rank | Description | Demo Video | Links |
+| :--- | :--- | :--- | :--- |
+| 🥇 1st | **LensReader**: High-performance AR document viewer for static PDFs. <br> <details> <summary><i>Read More...</i></summary> LensReader transforms PDFs into interactive floating holograms. It utilizes a custom cloud-to-AR pipeline to stream optimized, high-fidelity textures, bypassing hardware limitations to provide a smooth, hands-free reading experience. </details> | <video src="" width="320" controls></video> | [GitHub](https://blog.lenslist.co/2026/04/23/spectacles-community-challenge-11-winners-announcement/) |
+| 🥈 2nd | **Polynode**: HTML5-style spatial development libraries (SVG, Canvas, DOM). <br> <details> <summary><i>Read More...</i></summary> Polynode brings standard web development utilities to AR. It includes SpaceSVG for vector rendering, SpaceCanvas for fast 2D prototyping, and SpaceDOM for lightweight manipulation, filling a critical gap for developers transitioning from web to spatial. </details> | <video src="" width="320" controls></video> | [GitHub](https://blog.lenslist.co/2026/04/23/spectacles-community-challenge-11-winners-announcement/) |
+| 🥉 3rd | **SpecEntraAuthService**: Secure Microsoft Entra authentication for enterprise Lenses. <br> <details> <summary><i>Read More...</i></summary> This project implements the Microsoft Entra device code flow for Spectacles. It allows enterprise developers to securely authenticate users against Microsoft backends, facilitating the creation of business-oriented spatial applications. </details> | <video src="" width="320" controls></video> | [GitHub](https://blog.lenslist.co/2026/04/23/spectacles-community-challenge-11-winners-announcement/) |
+
+</details>
+
 
 <details>
 <summary><b>### December 2025 Challenge #8</b></summary>
