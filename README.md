@@ -33,6 +33,20 @@ A repository dedicated to tracking the winners and innovative projects from the 
 
 </details>
 
+
+<details>
+<summary><b>### September 2025 Challenge #6</b></summary>
+
+| Rank | Description | Links |
+| :--- | :--- | :--- |
+| 🥇 1st | **AI Teleport**: Create stunning virtual environments and transport yourself to AI-generated destinations. <br> <details> <summary><i>Read More...</i></summary> AI Teleport harnesses the power of artificial intelligence to create stunning virtual environments that users can explore through Spectacles. With voice commands and intuitive gestures, users can transport themselves to AI-generated destinations, blending imagination with cutting-edge technology. </details> | [Lens](https://developers.snap.com/spectacles/spectacles-community/community-challenge) |
+| 🥈 2nd | **Code Explorer**: Explore GitHub repositories and files directly in your physical space through AR. <br> <details> <summary><i>Read More...</i></summary> Code Explorer is an interactive Lens that integrates with the user's GitHub account, allowing them to explore repositories and files through AR. Users can view, organize, and drag files around their physical space, creating a hands-on way to navigate their projects. The Lens also supports image previews directly within the AR environment. </details> | [Lens](https://developers.snap.com/spectacles/spectacles-community/community-challenge) |
+| 🥉 3rd | **Apollo 11**: Immersive educational experience exploring the historic mission to the Moon. <br> <details> <summary><i>Read More...</i></summary> Apollo 11 Lens offers an immersive way to explore the historic mission that took humankind to the Moon. The Lens features a main menu with four interactive sections: Saturn V, Ascent Phase, Translunar Injection, and Lunar Landing. Each section includes informative cards accompanied by 3D animations, providing a visually engaging learning experience. </details> | [Lens](https://www.spectacles.com/lens/51) |
+| 🎖️ 4th | **Color Rush**: High-speed arcade game challenging players to match colors in AR. <br> <details> <summary><i>Read More...</i></summary> Color Rush is an exhilarating arcade game that challenges players to match colors at high speed. With vibrant visuals and increasingly difficult levels, this Lens delivers an addictive gameplay experience that keeps users coming back for more. </details> | [Lens](https://developers.snap.com/spectacles/spectacles-community/community-challenge) |
+| 🎖️ 5th | **Math Bee**: Competitive arithmetic practice game for mental agility. <br> <details> <summary><i>Read More...</i></summary> Math Bee turns arithmetic practice into an exciting competitive experience. Players race to solve math problems, competing for high scores and challenging their mental agility in this educational yet entertaining Spectacles Lens. </details> | [Lens](https://developers.snap.com/spectacles/spectacles-community/community-challenge) |
+
+</details>
+
 ---
 
 ## 2. Lens Update Category
@@ -60,6 +74,17 @@ A repository dedicated to tracking the winners and innovative projects from the 
 
 </details>
 
+<details>
+<summary><b>### September 2025 Challenge #6</b></summary>
+
+| Rank | Description | Links |
+| :--- | :--- | :--- |
+| 🥇 1st | **WhereAbouts**: Global exploration geography game with new locations and improved visual fidelity. <br> <details> <summary><i>Read More...</i></summary> WhereAbouts received a substantial update that expanded the global exploration experience with new locations and enhanced gameplay mechanics. The update added more challenging rounds and refined scoring systems for a more engaging experience. </details> | [Lens](https://www.spectacles.com/lens/53) |
+| 🥈 2nd | **Bplane Adventures**: Enhanced Story and Sport modes featuring a sarcastic AI coach. <br> <details> <summary><i>Read More...</i></summary> Latest updates enhanced both Story and Sport modes. Story Mode received a seasonal framework, while Sport Mode added a sarcastic AI coach guiding neck exercises with real-time instructions and motivational feedback. </details> | [Lens](https://www.spectacles.com/lens/55) |
+| 🥉 3rd | **Daily Briefing**: Consolidate daily info with AI narration and Google Calendar integration. <br> <details> <summary><i>Read More...</i></summary> Daily Briefing consolidates weather, news, and horoscopes, narrated by an AI voice. The latest update allows users to link Google Calendar to hear and see upcoming events directly within the Lens. </details> | [Lens](https://www.spectacles.com/lens/56) |
+
+</details>
+
 ---
 
 ## 3. Open Source Category
@@ -84,5 +109,14 @@ A repository dedicated to tracking the winners and innovative projects from the 
 | 🥇 1st | **LobbyToolkit**: Open-source framework for building real-time multiplayer experiences on Spectacles. <br> <details> <summary><i>Read More...</i></summary> LobbyToolkit is an open-source framework for building real-time multiplayer experiences. Powered by SnapCloud, it handles networking, lobbies, player syncing, and object synchronization, letting creators focus on immersive shared AR experiences. </details> | [View Demo](https://github.com/JoshuaLevi/Spectacles-Lobby-Toolkit) | [GitHub](https://github.com/baruchgeuze/LobbyToolkit) |
 | 🥈 2nd | **Snap OS Location Tools**: Open-source Lens utilizing GPS, compass, and Snap OS 2.0 Kits. <br> <details> <summary><i>Read More...</i></summary> This open-source Lens for Spectacles works with GPS location and compass heading data, leveraging Snap OS 2.0 features such as UI Kit, Mobile Kit, and the Location, Map, and Interaction Kits. Fully available on GitHub for community adaptation. </details> | [View Demo](https://www.youtube.com/watch?v=AGLMP8GyEv4) | [GitHub](https://github.com/Siekerman/Snap-OS-Location-Tools) |
 | 🥉 3rd | **Hexenfurt Toolbox**: Project template compiling key scripts from Hexenfurt Memories for developer use. <br> <details> <summary><i>Read More...</i></summary> Hexenfurt Toolbox is a project template that compiles key backbone scripts from Hexenfurt Memories, offering an easy-to-use setup that showcases available scripts and provides additional examples for reference. </details> | [View Demo](https://github.com/nikkazakov/Hexenfurt-Toolbox) | [GitHub](https://github.com/nikkazakov/Hexenfurt-Toolbox) |
+
+</details>
+
+<details>
+<summary><b>### September 2025 Challenge #6</b></summary>
+
+| Rank | Description | Demo Video | Links |
+| :--- | :--- | :--- | :--- |
+| 🥇 1st | **Sanctum**: Immersive sanctuary spaces in AR for contemplative and meditative experiences. <br> <details> <summary><i>Read More...</i></summary> Sanctum is an open-source project that creates immersive sanctuary spaces in AR. It provides developers with a foundation for building contemplative experiences with ambient effects and peaceful environments. </details> | | [GitHub](https://github.com/user-attachments/assets/57) |
 
 </details>
